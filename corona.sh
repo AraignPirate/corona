@@ -56,7 +56,7 @@ country()
 		if [[ $p == $choice ]]
 		then
 		echo
-		echo -e "  YOUR LUCK WORKED !!! THE COUNTRY $cyan $choice $white WAS FOUNF IN THE DATABASE" && read y 
+		echo -e "  YOUR LUCK WORKED !!! THE COUNTRY $cyan $choice $white WAS FOUN IN THE DATABASE" && read y 
 		getdata $choice
 		fi
 	done < <( cat .country.txt | tr [A-Z] [a-z] | tr -d " ")
