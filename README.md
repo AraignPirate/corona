@@ -10,7 +10,7 @@ BUILD ON : Kali Linux.
 
 ## Usage
 
-Clone the repo using **bash terminal**
+Clone the repo using **bash terminal** and run these commands
 
 > `git clone https://github.com/AraignPirate/corona.git`
 
@@ -18,7 +18,7 @@ Clone the repo using **bash terminal**
 
 > `chmod +x corona.sh`
 
-> ./corona.sh
+> `./corona.sh`
 
 ## Demo Images
 
