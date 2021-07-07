@@ -32,7 +32,7 @@ Searching for india we get this
 
 Example search for US is this
 
-![us stat search](https://github.com/AraignPirate/corona/blob/master/Demo/corona_2.png)
+![us stat search](https://github.com/AraignPirate/corona/blob/master/Demo/corona_us.png)
 
 ## Important files
 
