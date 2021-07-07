@@ -11,3 +11,13 @@ BUILD ON : Kali Linux.
 ## Usage
 
 Clone the repo using **bash terminal**
+
+> git clone https://github.com/AraignPirate/corona.git
+
+> cd corona
+
+> chmod +x corona.sh
+
+> ./corona.sh
+
+## Demo Images
