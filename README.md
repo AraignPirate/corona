@@ -12,12 +12,35 @@ BUILD ON : Kali Linux.
 
 Clone the repo using **bash terminal**
 
-> git clone https://github.com/AraignPirate/corona.git
+> `git clone https://github.com/AraignPirate/corona.git`
 
-> cd corona
+> `cd corona`
 
-> chmod +x corona.sh
+> `chmod +x corona.sh`
 
 > ./corona.sh
 
 ## Demo Images
+
+After running the script this will be shown
+
+![First Image](https://github.com/AraignPirate/corona/blob/master/Demo/corona_first.png)
+
+Searching for india we get this
+
+![India stat search](https://github.com/AraignPirate/corona/blob/master/Demo/corona_2.png)
+
+Example search for US is this
+
+![us stat search](https://github.com/AraignPirate/corona/blob/master/Demo/corona_2.png)
+
+## Important files
+
+#### .country
+
+This file contains all the countries that can be serched in this script.
+
+#### log.txt
+
+This file get updated only when India is searched
+
