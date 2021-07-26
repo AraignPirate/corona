@@ -2,6 +2,7 @@
 
 ## About
 
+
 A command line bash script to get *statistics corona virus update*.
 
 - Required **BASH**
